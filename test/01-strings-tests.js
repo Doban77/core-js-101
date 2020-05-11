@@ -68,7 +68,7 @@ describe('01-strings-tasks', () => {
     );
   });
 
-  it.optional('getRectangleString should return the string reprentation of rectangle with specified size', () => {
+  it.optional('getRectangleString should return the string representation of rectangle with specified size', () => {
     assert.equal(
       // eslint-disable-next-line indent
         '┌────┐\n'
